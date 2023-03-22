@@ -1,0 +1,15 @@
+/home/axl/Documents/Kuliah/Pemrograman/Pertemuan 4/TugasClass/bin/Debug/net7.0/TugasClass
+/home/axl/Documents/Kuliah/Pemrograman/Pertemuan 4/TugasClass/bin/Debug/net7.0/TugasClass.deps.json
+/home/axl/Documents/Kuliah/Pemrograman/Pertemuan 4/TugasClass/bin/Debug/net7.0/TugasClass.runtimeconfig.json
+/home/axl/Documents/Kuliah/Pemrograman/Pertemuan 4/TugasClass/bin/Debug/net7.0/TugasClass.dll
+/home/axl/Documents/Kuliah/Pemrograman/Pertemuan 4/TugasClass/bin/Debug/net7.0/TugasClass.pdb
+/home/axl/Documents/Kuliah/Pemrograman/Pertemuan 4/TugasClass/obj/Debug/net7.0/TugasClass.csproj.AssemblyReference.cache
+/home/axl/Documents/Kuliah/Pemrograman/Pertemuan 4/TugasClass/obj/Debug/net7.0/TugasClass.GeneratedMSBuildEditorConfig.editorconfig
+/home/axl/Documents/Kuliah/Pemrograman/Pertemuan 4/TugasClass/obj/Debug/net7.0/TugasClass.AssemblyInfoInputs.cache
+/home/axl/Documents/Kuliah/Pemrograman/Pertemuan 4/TugasClass/obj/Debug/net7.0/TugasClass.AssemblyInfo.cs
+/home/axl/Documents/Kuliah/Pemrograman/Pertemuan 4/TugasClass/obj/Debug/net7.0/TugasClass.csproj.CoreCompileInputs.cache
+/home/axl/Documents/Kuliah/Pemrograman/Pertemuan 4/TugasClass/obj/Debug/net7.0/TugasClass.dll
+/home/axl/Documents/Kuliah/Pemrograman/Pertemuan 4/TugasClass/obj/Debug/net7.0/refint/TugasClass.dll
+/home/axl/Documents/Kuliah/Pemrograman/Pertemuan 4/TugasClass/obj/Debug/net7.0/TugasClass.pdb
+/home/axl/Documents/Kuliah/Pemrograman/Pertemuan 4/TugasClass/obj/Debug/net7.0/TugasClass.genruntimeconfig.cache
+/home/axl/Documents/Kuliah/Pemrograman/Pertemuan 4/TugasClass/obj/Debug/net7.0/ref/TugasClass.dll
